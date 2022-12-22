@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+.back-color{
+    background-color:goldenrod;
+    color: silver;
+}
+.navbar-brand{
+   color: midnightblue;
+   font-size: 2rem;
+   font-weight: bold;
+}
+.content-image{
+   
+    width: 25% !important;
+    height: 300px !important;
+
+}
